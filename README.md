@@ -1,2 +1,2 @@
 # Mavic2Pro landing page
-js and scss drc files
+Js and scss src files. Native js without Jquery.
